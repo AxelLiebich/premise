@@ -40,6 +40,7 @@ Concentration Pathway (RCP)—and a year (e.g., SSP1, Base, 2035).
 | SSP2-None        | ~2.5 °C               | Extrapolation from historical developments.                                        | Nationally Determined Contributions (NDCs). | SSP2-NDC        |            |
 +------------------+-----------------------+------------------------------------------------------------------------------------+---------------------------------------------+-----------------+------------+
 | SSP2-RCP2.6      | 1.6-1.8 °C            | Extrapolation from historical developments.                                        | Paris Agreement objective.                  | SSP2-PkBudg1150 | SSP2-RCP26 |
+
 +------------------+-----------------------+------------------------------------------------------------------------------------+---------------------------------------------+-----------------+------------+
 | SSP2-RCP1.9      | 1.2-1.4 °C            | Extrapolation from historical developments.                                        | Paris Agreement objective.                  | SSP2-PkBudg500  | SSP2-RCP19 |
 +------------------+-----------------------+------------------------------------------------------------------------------------+---------------------------------------------+-----------------+------------+
@@ -1959,7 +1960,7 @@ conditions by the Fraunhofer_ Institute. In other words, it is assumed that by 2
 solar PVs will reach production level efficiencies equal to those observed today
 in laboratories.
 
-.. _Fraunhofer: https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdff
+.. _Fraunhofer: https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
 
  ====================== =========== ============ =========== ======= ====== =======
   % module efficiency    micro-Si    single-Si    multi-Si    CIGS    CIS    CdTe
